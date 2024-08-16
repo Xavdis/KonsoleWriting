@@ -49,6 +49,8 @@
                         Console.Write(alphabet_up[a]);
                         Thread.Sleep(1);
                         Console.Write("\b \b");
+
+
                         a++;
                     };
 
